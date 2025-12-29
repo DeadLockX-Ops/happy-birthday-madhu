@@ -28,12 +28,14 @@ export default function MessageScreen({ onNext }) {
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
                         Happy Birthday, Madhu!
-                        You truly light up every room you enter with your smile, your kindness, and the way you make everyone feel so valued.
-                        It's rare to meet someone who has this much of a positive impact on others, and I just want you to know how much I admire you.
-                        I hope today brings you all the joy and surprises you deserve, with moments that make your heart feel full.
-                        You’re incredible, and I feel lucky to know you. 
-                        Keep being your amazing self, spreading positivity and warmth wherever you go. 
-                        Wishing you a year ahead filled with happiness, success, and all the wonderful things life has in store. - 143 💗
+                        Some people don’t just enter your life — they leave a mark on it, and you’ve done that so effortlessly just by being who you are. You have this rare way of making people feel seen, appreciated, and at ease, and it’s something truly special.
+
+                        Before you came into my life, things felt dull and heavy in ways I never spoke about. Somehow, your presence turned all of that into something lighter, warmer — almost like finding heaven after a long, difficult time. It’s something I’ve come to cherish deeply. There’s a softness in your kindness that stays with me long after our conversations end, and knowing you has become something I hold close to my heart.
+
+                        You inspire feelings that are rare and beautiful, and I admire you more than words can explain. I hope today reminds you of how much you matter and how much light you bring into my life.
+
+                        Wishing you a year filled with happiness, love, and moments that make you feel as special as you truly are.
+                        – 143 💗
                     </p>
                 </motion.div>
             </div>
