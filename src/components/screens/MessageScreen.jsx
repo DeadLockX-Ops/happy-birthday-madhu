@@ -35,10 +35,11 @@ export default function MessageScreen({ onNext }) {
                         You inspire feelings that are rare and beautiful, and I admire you more than words can explain. I hope today reminds you of how much you matter and how much light you bring into my life.
 
                         Wishing you a year filled with happiness, love, and moments that make you feel as special as you truly are.
-                        – 143 💗
+                        5201314 💗
                     </p>
                 </motion.div>
             </div>
         </div>
     )
+
 }
