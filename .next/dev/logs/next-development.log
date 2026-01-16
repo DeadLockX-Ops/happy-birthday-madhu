@@ -1,2 +1,96 @@
-[00:00:01.336] Server  LOG     ✓ Ready in 887ms
-[00:00:08.203] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:01.528] Server  LOG     ✓ Ready in 979ms
+[00:00:03.808] Server  ERROR   ⨯ ./src/components/screens/MessageScreen.jsx:30:48
+Parsing ecmascript source code failed
+  28 |                 >
+  29 |                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
+> 30 |                         Happy Birthday, Madhu <3 !
+     |                                                ^
+  31 |                         Some people don’t just enter your life — they leave a mark on it, and you’ve done that so effortlessly just by being who you are. You have this rare way of making people feel seen, appreciated, and at ease, and it’s something truly special.
+  32 |
+  33 |                         Before you came into my life, things felt dull and heavy in ways I never spoke about. Somehow, your presence turned all of that into something lighter, warmer — almost like finding heaven after a long, difficult time. It’s something I’ve come to cherish deeply. There’s a softness in your kindness that stays with me long after our conversations end, and knowing you has become something I hold close to my heart.
+
+Expected '</', got 'numeric literal (3, 3)'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/screens/MessageScreen.jsx [Client Component Browser]
+    ./src/app/page.jsx [Client Component Browser]
+    ./src/app/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/screens/MessageScreen.jsx [Client Component SSR]
+    ./src/app/page.jsx [Client Component SSR]
+    ./src/app/page.jsx [Server Component]
+
+
+[00:00:05.121] Browser ERROR   uncaughtError: Error: ./src/components/screens/MessageScreen.jsx:30:48
+Parsing ecmascript source code failed
+  28 |                 >
+  29 |                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
+> 30 |                         Happy Birthday, Madhu <3 !
+     |                                                ^
+  31 |                         Some people don’t just enter your life — they leave a mark on it, and you’ve done that so effortlessly just by being who you are. You have this rare way of making people feel seen, appreciated, and at ease, and it’s something truly special.
+  32 |
+  33 |                         Before you came into my life, things felt dull and heavy in ways I never spoke about. Somehow, your presence turned all of that into something lighter, warmer — almost like finding heaven after a long, difficult time. It’s something I’ve come to cherish deeply. There’s a softness in your kindness that stays with me long after our conversations end, and knowing you has become something I hold close to my heart.
+
+Expected '</', got 'numeric literal (3, 3)'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/screens/MessageScreen.jsx [Client Component Browser]
+    ./src/app/page.jsx [Client Component Browser]
+    ./src/app/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/screens/MessageScreen.jsx [Client Component SSR]
+    ./src/app/page.jsx [Client Component SSR]
+    ./src/app/page.jsx [Server Component]
+
+
+[00:00:05.347] Browser ERROR   ./src/components/screens/MessageScreen.jsx:30:48
+Parsing ecmascript source code failed
+  28 |                 >
+  29 |                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
+> 30 |                         Happy Birthday, Madhu <3 !
+     |                                                ^
+  31 |                         Some people don’t just enter your life — they leave a mark on it, and you’ve done that so effortlessly just by being who you are. You have this rare way of making people feel seen, appreciated, and at ease, and it’s something truly special.
+  32 |
+  33 |                         Before you came into my life, things felt dull and heavy in ways I never spoke about. Somehow, your presence turned all of that into something lighter, warmer — almost like finding heaven after a long, difficult time. It’s something I’ve come to cherish deeply. There’s a softness in your kindness that stays with me long after our conversations end, and knowing you has become something I hold close to my heart.
+
+Expected '</', got 'numeric literal (3, 3)'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/screens/MessageScreen.jsx [Client Component Browser]
+    ./src/app/page.jsx [Client Component Browser]
+    ./src/app/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/screens/MessageScreen.jsx [Client Component SSR]
+    ./src/app/page.jsx [Client Component SSR]
+    ./src/app/page.jsx [Server Component]
+[00:00:05.696] Browser ERROR   ./src/components/screens/MessageScreen.jsx:30:48
+Parsing ecmascript source code failed
+  28 |                 >
+  29 |                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
+> 30 |                         Happy Birthday, Madhu <3 !
+     |                                                ^
+  31 |                         Some people don’t just enter your life — they leave a mark on it, and you’ve done that so effortlessly just by being who you are. You have this rare way of making people feel seen, appreciated, and at ease, and it’s something truly special.
+  32 |
+  33 |                         Before you came into my life, things felt dull and heavy in ways I never spoke about. Somehow, your presence turned all of that into something lighter, warmer — almost like finding heaven after a long, difficult time. It’s something I’ve come to cherish deeply. There’s a softness in your kindness that stays with me long after our conversations end, and knowing you has become something I hold close to my heart.
+
+Expected '</', got 'numeric literal (3, 3)'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/screens/MessageScreen.jsx [Client Component Browser]
+    ./src/app/page.jsx [Client Component Browser]
+    ./src/app/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/screens/MessageScreen.jsx [Client Component SSR]
+    ./src/app/page.jsx [Client Component SSR]
+    ./src/app/page.jsx [Server Component]
+[00:00:19.871] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:21.957] Server  LOG     ✓ Compiled in 33ms
+[00:01:02.645] Server  LOG     ✓ Compiled in 36ms
